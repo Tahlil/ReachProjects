@@ -5,5 +5,8 @@ export const main =
         [['Alice', {}], ['Bob', {}]],
         (A, B) => {
             exit();
+
         }
+        
     );
+
